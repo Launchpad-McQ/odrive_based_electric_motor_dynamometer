@@ -1,4 +1,3 @@
-2019-05-11 15:22:21.215576
 Input voltage, Input current, Input Power, Test Motor Temperature, Test motor FET temp, Test motor q-axis current, Test motor d-axis current, Test motor Ibus, Test motor Ical, Output Torque, Output Speed, Output Speed set-point, Output Power, Absorber Motor Temperature, Absorber motor FET temp, Absorber q-axis current, Absorber d-axis current, Absorber Ibus, Absorber motor Ical
 V, mA, W, Deg C, Deg C, A, A, A, A, N.mm, rad.s, rad.s, W, Deg C, Deg C, A, A, A, A
 48.104187393188475, 0, 0.0, 25.461760327784866, 21.19194641113281, -1.5954896330833435, 0.04020214006304741, 0.0183845984749496, 20.0, -15.2, -10.57488140471194, 10.471975262294626, 0.15303377790070816, 23.0399285643124, 23.05896282196045, -0.06308612674474716, -0.0005359254777431488, 0.001125372984824935, 20.0
